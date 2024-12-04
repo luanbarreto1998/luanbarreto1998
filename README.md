@@ -1,14 +1,12 @@
 # Hi there! I'm Luan!
-- Electrical Enginner,
-- Test
-- 
+- Electrical Enginner | Post Graduate in Data Science | MBA in Cybersecuity
+- Passionate about programming, machine learning, data science and analytics.
+- EXIN Provacy and Data Protection Essentials based on LGPD and ISC2 Certified in Cybersecurity
+- Tech Analyst at BB Tecnologia e Serviços BBTS | Specialized Product Development Division | Analytics & ML
 
 ## Languages & tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
           
-          
-          
-
 ## GitHub Stats
 <div>
 <a href="https://github.com/luanbarreto1998">
