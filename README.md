@@ -1,7 +1,7 @@
 # Hi there! I'm Luan!
 - Electrical Enginner | Post Graduate in Data Science | MBA in Cybersecuity
 - Passionate about programming, machine learning, data science and analytics.
-- EXIN Provacy and Data Protection Essentials based on LGPD and ISC2 Certified in Cybersecurity
+- EXIN Privacy and Data Protection Essentials based on LGPD and ISC2 Certified in Cybersecurity
 - Tech Analyst at BB Tecnologia e Serviços BBTS | Specialized Product Development Division | Analytics & ML
 
 ## Languages & tools
