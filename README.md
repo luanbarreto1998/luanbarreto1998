@@ -1,8 +1,8 @@
 # Hi there! I'm Luan!
 - Electrical Enginner | Post Graduate in Data Science | MBA in Cybersecuity
+- Technology Analyst at BB Tecnologia e Serviços BBTS | Specialized Product Development Division | Analytics & ML
 - Passionate about programming, machine learning, data science and analytics.
 - EXIN Privacy and Data Protection Essentials based on LGPD and ISC2 Certified in Cybersecurity
-- Technology Analyst at BB Tecnologia e Serviços BBTS | Specialized Product Development Division | Analytics & ML
 
 ## Languages & tools 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
