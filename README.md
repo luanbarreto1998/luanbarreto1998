@@ -5,8 +5,7 @@
 - EXIN Privacy and Data Protection Essentials based on LGPD and ISC2 Certified in Cybersecurity
 
 ## Languages & tools 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-          
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ## GitHub Stats
 <div>
 <a href="https://github.com/luanbarreto1998">
@@ -16,6 +15,6 @@
 
 ## Reach me:
 <div>
-<a href="https://br.linkedin.com/in/luan-silva-barreto-674029132" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <img loading="lazy" src="https://img.shields.io/badge/luanbarreto1998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
+<a href="https://br.linkedin.com/in/luan-silva-barreto-674029132" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:luanbarreto1998@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>
 
