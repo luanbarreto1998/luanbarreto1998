@@ -13,9 +13,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbarreto1998&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/luanbarreto1998?theme=forest&font=Noto%20Sans%20Old%20Permic)
-
 ## Reach me:
 <div>
 <a href="https://br.linkedin.com/in/luan-silva-barreto-674029132" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:luanbarreto1998@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
