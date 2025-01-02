@@ -1,6 +1,6 @@
 # Hi there! I'm Luan!
 - Electrical Enginner | Post Graduate in Data Science | MBA in Cybersecuity
-- Technology Analyst at BB Tecnologia e Serviços BBTS | Specialized Product Development Division | Analytics & ML
+- Data Analyst at BB Tecnologia e Serviços BBTS | Specialized Product Development Division | Analytics & ML
 - Passionate about programming, machine learning, data science and analytics.
 - EXIN Privacy and Data Protection Essentials based on LGPD and ISC2 Certified in Cybersecurity
 
