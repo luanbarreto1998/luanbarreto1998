@@ -1,4 +1,4 @@
-# Olá! Seja bem-vindo!
+# Olá, meu nome é Luan! Seja bem-vindo!
 - Electrical Enginner | Post Graduate in Data Science | MBA in Cybersecuity
 - Data Analyst at BB Tecnologia e Serviços BBTS | Specialized Product Development Division | Analytics & ML
 - Passionate about programming, machine learning, data science and analytics.
