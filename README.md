@@ -9,7 +9,7 @@
 ## 📜 Certifications
 ![PCEP Certified](https://img.shields.io/badge/PCEP%20--%20Certified%20Python%20Programmer-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![EXIN LGPD](https://img.shields.io/badge/EXIN%20--%20Privacy%20%26%20Data%20Protection-00599C?style=for-the-badge&logo=shield&logoColor=white) 
-![IBSEC Cybersecurity](https://img.shields.io/badge/IBSEC%20--%20Cybersecurity%20Fundamentals-000000?style=for-the-badge&logo=fortinet&logoColor=white)
+![IBSEC Cybersecurity](https://img.shields.io/badge/IBSEC%20--%20Cybersecurity%20Fundamentals-0066FF?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
 
