@@ -1,8 +1,17 @@
 # Hi there, I'm Luan! 👋
-- Electrical Engineer | Post Graduate in Data Science | MBA in Cybersecurity
-- IT Analyst at SERPRO - Federal Data Processing Service | Business Division - Solutions for the Ministry of Finance
-- Passionate about programming, data engineering and analytics.
-- PCEP Certified Entry-Level Python Programmer | EXIN Privacy and Data Protection Essentials based on LGPD | IBSEC Cybersecurity Fundamentals
+
+- ⚡ **Role:** IT Analyst at SERPRO — Federal Data Processing Service | Business Division (Ministry of Finance)
+- 🎓 **Background:** Electrical Engineer | Post-Graduate in Data Science | MBA in Cybersecurity
+- 💡 **Focus:** Data Engineering, Python Microservices, Business Intelligence, Data Governance & Analytics
+
+---
+
+## 📜 Certifications
+![PCEP Certified](https://img.shields.io/badge/PCEP%20--%20Certified%20Python%20Programmer-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![EXIN LGPD](https://img.shields.io/badge/EXIN%20--%20Privacy%20%26%20Data%20Protection-00599C?style=for-the-badge&logo=shield&logoColor=white) 
+![IBSEC Cybersecurity](https://img.shields.io/badge/IBSEC%20--%20Cybersecurity%20Fundamentals-000000?style=for-the-badge&logo=fortinet&logoColor=white)
+
+---
 
 ## 🛠️ Tech Stack & Skills
 
@@ -20,6 +29,7 @@
 ![Power Bi](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=codeforces&logoColor=black) 
 ![Databricks](https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![SAS](https://img.shields.io/badge/SAS-0174DF?style=for-the-badge&logo=sas&logoColor=white) 
 ![Metabase](https://img.shields.io/badge/Metabase-007ACC?style=for-the-badge&logo=metabase&logoColor=white) 
 ![Qlik](https://img.shields.io/badge/Qlik-54565A?style=for-the-badge&logo=Qlik)
 
@@ -35,7 +45,14 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
 ![Businessmap](https://img.shields.io/badge/Businessmap-0A2540?style=for-the-badge&logo=trello&logoColor=white)
 
-## Reach me:
+---
+
+## 📬 Connect with me
 <div>
-<a href="https://br.linkedin.com/in/luan-silva-barreto-674029132" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:luanbarreto1998@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://br.linkedin.com/in/luan-silva-barreto-674029132" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="mailto:luanbarreto1998@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
