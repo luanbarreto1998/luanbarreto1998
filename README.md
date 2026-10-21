@@ -1,6 +1,6 @@
 # Hi there, I'm Luan! 👋
 - Electrical Enginner | Post Graduate in Data Science | MBA in Cybersecuity
-- Data Analyst at Banco do Basil | Mobile Analytics Division
+- IT Analyst at SERPRO - Federal Data Processing Service | Business Division - Solutions for the Ministry of Finance
 - Passionate about programming, machine learning, data science, engineering and analytics.
 - PCEP Certified Entry-Level Python Programmer | EXIN Privacy and Data Protection Essentials based on LGPD | IBSEC Cybersecurity Fundamentals
 
