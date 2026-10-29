@@ -1,4 +1,4 @@
-# Hi there, I'm Luan! 👋
+# Hi there, I'm Luan!
 
 - **Role:** IT Analyst at SERPRO — Federal Data Processing Service | Business Division (Ministry of Finance)
 - **Background:** Electrical Engineer | Post-Graduate in Data Science and Applied Statistics | MBA in Cybersecurity
