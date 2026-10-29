@@ -4,14 +4,10 @@
 - **Background:** Electrical Engineer | Post-Graduate in Data Science | Post-Graduate in Applied Statistics | MBA in Cybersecurity
 - **Focus:** Data Engineering, Python Microservices, Business Intelligence, Data Governance & Analytics
 
----
-
 ## Certifications
 ![PCEP Certified](https://img.shields.io/badge/PCEP%20--%20Certified%20Python%20Programmer-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![EXIN LGPD](https://img.shields.io/badge/EXIN%20--%20Privacy%20%26%20Data%20Protection-00599C?style=for-the-badge&logo=shield&logoColor=white) 
 ![IBSEC Cybersecurity](https://img.shields.io/badge/IBSEC%20--%20Cybersecurity%20Fundamentals-0066FF?style=for-the-badge&logo=shield&logoColor=white)
-
----
 
 ## Tech Stack & Skills
 
@@ -44,8 +40,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
 ![Businessmap](https://img.shields.io/badge/Businessmap-0A2540?style=for-the-badge&logo=trello&logoColor=white)
-
----
 
 ## Connect with me
 <div>
