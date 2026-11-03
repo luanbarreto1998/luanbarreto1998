@@ -24,8 +24,7 @@
 ### Data, BI & Analytics
 ![Power Bi](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=codeforces&logoColor=black) 
 ![Databricks](https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![SAS](https://img.shields.io/badge/SAS-0174DF?style=for-the-badge&logo=sas&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-007ACC?style=for-the-badge&logo=metabase&logoColor=white) 
 ![Qlik](https://img.shields.io/badge/Qlik-54565A?style=for-the-badge&logo=Qlik)
 ![KNIME](https://img.shields.io/badge/KNIME-F2C811?style=for-the-badge&logo=KNIME&logoColor=black) 
