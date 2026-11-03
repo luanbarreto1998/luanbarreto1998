@@ -28,6 +28,7 @@
 ![SAS](https://img.shields.io/badge/SAS-0174DF?style=for-the-badge&logo=sas&logoColor=white) 
 ![Metabase](https://img.shields.io/badge/Metabase-007ACC?style=for-the-badge&logo=metabase&logoColor=white) 
 ![Qlik](https://img.shields.io/badge/Qlik-54565A?style=for-the-badge&logo=Qlik)
+![KNIME](https://img.shields.io/badge/KNIME-F2C811?style=for-the-badge&logo=KNIME&logoColor=black) 
 
 ### DevOps, Cloud & Infrastructure
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) 
