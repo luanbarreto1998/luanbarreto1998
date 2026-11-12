@@ -1,6 +1,6 @@
 # Hi there, I'm Luan!
 
-- **Role:** IT Analyst at SERPRO — Federal Data Processing Service | Business Division (Ministry of Finance)
+- **Role:** IT Analyst at SERPRO — Federal Data Processing Service | Department of Solutions for the General Coordination of Data Management and Governance of Federal Revenue Service of Brazil (RFB)
 - **Background:** Electrical Engineer | Post-Graduate in Data Science | Post-Graduate in Applied Statistics | MBA in Cybersecurity
 - **Focus:** Data Engineering, Python Microservices, Business Intelligence, Data Governance & Analytics
 
