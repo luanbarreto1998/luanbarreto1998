@@ -1,6 +1,6 @@
 # Hi there, I'm Luan!
 
-- **Role:** IT Analyst at SERPRO — Federal Data Processing Service | Department of Solutions of Data Management and Governance
+- **Role:** IT Analyst at SERPRO — Federal Data Processing Service | Data Management and Governance Department
 - **Background:** Electrical Engineer | Post-Graduate in Data Science | Post-Graduate in Applied Statistics | MBA in Cybersecurity
 - **Focus:** Data Engineering, Python Microservices, Business Intelligence, Data Governance & Analytics
 
